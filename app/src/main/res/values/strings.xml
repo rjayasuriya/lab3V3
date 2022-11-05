@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3V2</string>
+    <string name="Add">Add</string>
+    <string name="Find">Find</string>
+    <string name="Delete">Delete</string>
+    <string name="View_All_Products">View_All_Products</string>
+</resources>
